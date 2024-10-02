@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Страница — 1" id="wL0bHbokBfduc6_CIbOi">
+    <mxGraphModel dx="824" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="od1PrTO8QML6_LZR_-IL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-1" target="od1PrTO8QML6_LZR_-IL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-2" target="od1PrTO8QML6_LZR_-IL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-2" value="Выбор файла для записи" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-3" target="od1PrTO8QML6_LZR_-IL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-3" value="Запись файла" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-4" target="od1PrTO8QML6_LZR_-IL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-4" target="od1PrTO8QML6_LZR_-IL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-4" target="od1PrTO8QML6_LZR_-IL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-4" target="od1PrTO8QML6_LZR_-IL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-4" value="Верификация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-9" target="od1PrTO8QML6_LZR_-IL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-9" value="Файл записан" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-10" target="od1PrTO8QML6_LZR_-IL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-10" value="Недостаток свободного места на диске" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-14" target="od1PrTO8QML6_LZR_-IL-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-14" value="Повреждение диска" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="od1PrTO8QML6_LZR_-IL-15" target="od1PrTO8QML6_LZR_-IL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-15" value="Наличие ошибок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="od1PrTO8QML6_LZR_-IL-23" value="Вывод сообщения пользователю" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
